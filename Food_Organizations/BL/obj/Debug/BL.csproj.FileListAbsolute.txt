@@ -1,0 +1,99 @@
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations.mdf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations_log.ldf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations.mdf
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations_log.ldf
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations.mdf
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations_log.ldf
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+E:\Food_Organizations\BL\bin\Debug\BL.dll
+E:\Food_Organizations\BL\bin\Debug\BL.pdb
+E:\Food_Organizations\BL\bin\Debug\Dal.dll
+E:\Food_Organizations\BL\bin\Debug\DTO.dll
+E:\Food_Organizations\BL\bin\Debug\Dal.pdb
+E:\Food_Organizations\BL\bin\Debug\Dal.dll.config
+E:\Food_Organizations\BL\bin\Debug\DTO.pdb
+E:\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+E:\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Food_Organizations\BL\obj\Debug\BL.dll
+E:\Food_Organizations\BL\obj\Debug\BL.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\BL.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\BL.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\DTO.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\Dal.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\DTO.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\סמינר\Food_Organizations\BL\bin\Debug\BL.dll
+D:\סמינר\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\סמינר\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\סמינר\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\סמינר\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\סמינר\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.dll
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.pdb
